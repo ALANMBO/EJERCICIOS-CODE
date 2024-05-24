@@ -443,7 +443,7 @@ numeros.forEach((numero, indice) => {
 });*/
 
 
-function dividir(a, b) {
+/*function dividir(a, b) {
     try {
         if (b === 0) {
             throw new Error("División por cero");
@@ -456,3 +456,5 @@ function dividir(a, b) {
 
 console.log(dividir(10, 0)); 
 console.log(dividir(10, 2)); 
+*/
+
