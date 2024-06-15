@@ -458,3 +458,6 @@ console.log(dividir(10, 0));
 console.log(dividir(10, 2)); 
 */
 
+var a = 55 , b = 55;
+console.log(a+b);
+
